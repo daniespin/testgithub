@@ -7,5 +7,5 @@ Daniel Espin Balsera
 ## Curso
 Desarrollo de Aplicaciones Web
 
-## Anño
+## Año
 2018-2019
